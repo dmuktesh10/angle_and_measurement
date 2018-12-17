@@ -1,0 +1,11 @@
+{
+  "name": "angle_and_measurement",
+  "version": "1.0.0",
+  "description": "function related to angle and its measurements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muktesh",
+  "license": "ISC"
+}
